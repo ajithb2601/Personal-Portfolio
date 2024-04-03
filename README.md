@@ -115,33 +115,6 @@ npm run dev
 6. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the website locally.
 
   
-
-## Usage
-
-  
-
-You can use this project as a template for your own portfolio website. Customize it by adding your own projects, skills, and contact information.
-
-  
-
-## Contributing
-
-  
-
-If you'd like to contribute to this project, please open an issue or submit a pull request.
-
-  
-
-## License
-
-  
-
-This project is open source and available under the [MIT License](LICENSE).
-
-  
-
----
-
   
 
 Icons made by [FontAwesome](https://fontawesome.com/).
