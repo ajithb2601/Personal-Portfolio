@@ -3,19 +3,7 @@
 
   
 
-![GitHub](https://img.shields.io/github/license/DevRohit06/Portfolio-website) ![GitHub stars](https://img.shields.io/github/stars/DevRohit06/Portfolio-website) ![GitHub forks](https://img.shields.io/github/forks/DevRohit06/Portfolio-website) ![GitHub last commit](https://img.shields.io/github/last-commit/DevRohit06/Portfolio-website)
-
-  
-
 This is my personal portfolio website built using Tailwind CSS and Astro. It showcases my projects, skills, and contact information.
-
-  
-
-## Preview
-
-  
-
-![Portfolio Website Preview](https://pbs.twimg.com/media/F6iOZw3WAAAtoqK?format=jpg&name=medium)
 
   
 
@@ -33,9 +21,6 @@ You can check out the live website [here](https://rohitk06.vercel.app).
 
 - Contact form
 
-- Blog Page
-
-  
 
 ## Technologies Used
 
