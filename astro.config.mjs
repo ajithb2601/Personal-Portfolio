@@ -21,7 +21,7 @@ export default defineConfig({
     config: {
       applyBaseStyles: false
     }
-  }), compress(), react(), mdx({
+  }), react(), mdx({
     ...markdownConfig,
     syntaxHighlight: "shiki",
     shikiConfig: {
@@ -31,11 +31,6 @@ export default defineConfig({
     config: {
       forward: ["dataLayer.push"]
     }
-  }), robotsTxt({
-    sitemap: [
-      'https://www.rohitk06.site/sitemap-0.xml',
-      'http://www.rohitk06.site/sitemap-index.xml',
-    ],
   })]
   // output: "server",
   // adapter: vercel({
