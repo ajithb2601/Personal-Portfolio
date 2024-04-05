@@ -7,7 +7,7 @@ This is my personal portfolio website built using Tailwind CSS and Astro. It sho
 
   
 
-You can check out the live website [here](https://rohitk06.vercel.app).
+You can check out the live website [here]().
 
   
 
