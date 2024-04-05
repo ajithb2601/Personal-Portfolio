@@ -4,7 +4,7 @@ import lofi from "../assets/images/lofi.webp";
 import blog from "../assets/images/blog.webp";
 import docAid from "../assets/images/docAid.webp";
 import LifeInsureEase from "../assets/images/lifeinsureease.webp";
-import Portfolio from "../assets/images/portfolio.webp"
+
 import CartManagementSystem from "../assets/images/cart-management-system.webp"
 const data = [
     {
@@ -28,16 +28,6 @@ const data = [
         description: "This is an Insurance website made using Astro, Reactjs and Tailwind css. ",
         tech: ['HTML', 'Javascript', 'Css', 'Tailwind css', 'Astro', 'Reactjs']
 
-    },
-    {
-        name: "Portfolio Website",
-        type: "Website",
-        url: "https://rohitk06.site/",
-        github: "https://github.com/DevRohit06/Portfolio-website",
-        image: Portfolio,
-        slug: "portfolio",
-        description: "This is my Portfolio website made using Astro, Reactjs and Tailwind css. ",
-        tech: ['HTML', 'Javascript', 'Css', 'Tailwind css', 'Astro', 'Reactjs']
     },
     {
         name: "DocAid",

@@ -92,12 +92,7 @@ export default function PageNav(props) {
             >
               Contact
             </a>
-            <a
-              className="w-full py-2 bg-primary text-center rounded-xl bg-opacity-10 hover:bg-opacity-5 text-primary font-bold"
-              href="/blog"
-            >
-              Blogs
-            </a>
+         
             <a
               className="w-full py-2 bg-primary text-center rounded-xl bg-opacity-10 hover:bg-opacity-5 text-primary font-bold"
               href="#"

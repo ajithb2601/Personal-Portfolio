@@ -87,7 +87,7 @@ export default function IndexNav() {
                   >
                     Contact
                   </a>
-                  <a>Download CV</a>
+                  <a href="/Resume.pdf">Download CV</a>
                 </ul>
               </div>
             </div>

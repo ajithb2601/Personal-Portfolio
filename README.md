@@ -13,8 +13,6 @@ You can check out the live website [here](https://rohitk06.vercel.app).
 
 ## Features
 
-  
-
 - Responsive design
 
 - Projects showcase
